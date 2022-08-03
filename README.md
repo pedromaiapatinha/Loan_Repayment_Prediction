@@ -29,8 +29,7 @@ pip install -r requirements.txt
 ```
 ├── Loan Repayment Prediction - Decision Trees.ipynb
 ├── Loans_Dataset.csv
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ## Technologies Used
